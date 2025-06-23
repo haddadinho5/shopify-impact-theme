@@ -229,10 +229,6 @@
     "featured_product_Nx6Yia": {
       "type": "featured-product",
       "blocks": {
-        "vendor_UjARyD": {
-          "type": "vendor",
-          "settings": {}
-        },
         "liquid_BinfcW": {
           "type": "liquid",
           "settings": {
@@ -310,7 +306,6 @@
         }
       },
       "block_order": [
-        "vendor_UjARyD",
         "liquid_BinfcW",
         "title_rMBif9",
         "badges_QjiaXA",
