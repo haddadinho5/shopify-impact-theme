@@ -140,7 +140,7 @@
         "heading_WL6Dqx": {
           "type": "heading",
           "settings": {
-            "text": "Résultat Avant/Après",
+            "text": "Résultats prouvés en 2 à 12 semaines",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -159,6 +159,34 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "image_with_text_overlay_FchexR": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_fTjdkT": {
+          "type": "heading",
+          "settings": {
+            "text": "Image with text overlay",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_fTjdkT"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/visuel-marketing-fran-ais-sommeil-profond.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
@@ -166,6 +194,7 @@
     "logo_list_qkdaDK",
     "rich_text_G7kepJ",
     "image_with_text_overlay_RUXfY7",
-    "rich_text_H4MUU4"
+    "rich_text_H4MUU4",
+    "image_with_text_overlay_FchexR"
   ]
 }
