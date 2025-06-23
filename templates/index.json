@@ -261,15 +261,6 @@
             "liquid": "<style>\n  .blink {\n    animation: blink-animation 1.5s steps(5, start) infinite;\n    color: red;\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    font-size: 10px; /* Set font size */\n  }\n\n  @keyframes blink-animation {\n    to {\n      visibility: hidden;\n    }\n  }\n\n  .red-div {\n    background-color: #ffcccc;\n    padding: 2px 10px; /* 6px vertical, 10px horizontal */\n    border-radius: 8px; /* Rounded corners */\n    display: inline-block; /* Display as inline-block */\n    text-align: center; /* Center align the content */\n    margin: 0 auto; /* Horizontally center the red-div */\n  }\n\n  .text {\n    display: inline-block; /* Display as inline-block */\n    vertical-align: middle; /* Align vertically to middle */\n    margin-left: 10px; /* Add some space between the dot and the text */\n    color: #AD0000; /* Text color */\n    font-weight: 500; /* Medium font weight */\n    font-size: 12px; /* Set font size */\n    text-align: justify; /* Justify the text to the center */\n  }\n</style>\n\n<div class=\"red-div\">\n  <div class=\"blink\">&#9679;</div>\n  <div class=\"text\">En stock: 5 restants.</div>\n</div>"
           }
         },
-        "image_zDgLHm": {
-          "type": "image",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/image-promotionnelle-d-t-rectangulaire.png",
-            "alignment": "start",
-            "max_width": 200
-          }
-        },
         "separator_aVzANk": {
           "type": "separator",
           "settings": {}
@@ -308,6 +299,14 @@
         "pickup_availability_MpQwye": {
           "type": "pickup_availability",
           "settings": {}
+        },
+        "image_zDgLHm": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_23_juin_2025_18_10_07.png",
+            "alignment": "center",
+            "max_width": 130
+          }
         }
       },
       "block_order": [
@@ -317,13 +316,13 @@
         "badges_QjiaXA",
         "price_b3DkEh",
         "liquid_7aKGN9",
-        "image_zDgLHm",
         "separator_aVzANk",
         "description_xjiCBr",
         "variant_picker_gyb9mi",
         "quantity_selector_d66LRb",
         "buy_buttons_3XLVBq",
-        "pickup_availability_MpQwye"
+        "pickup_availability_MpQwye",
+        "image_zDgLHm"
       ],
       "name": "Featured product",
       "settings": {
