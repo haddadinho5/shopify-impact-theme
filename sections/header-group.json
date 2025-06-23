@@ -16,6 +16,7 @@
       "blocks": {
         "message_yjwUnm": {
           "type": "message",
+          "disabled": true,
           "settings": {
             "text": "Offre limitée été: -50%",
             "url": ""
@@ -46,7 +47,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#cab587",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -58,7 +59,7 @@
         "hide_on_scroll": false,
         "logo": "shopify://shop_images/logo-viatica-simple.png",
         "logo_max_width": 200,
-        "logo_mobile_max_width": 100,
+        "logo_mobile_max_width": 140,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
