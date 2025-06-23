@@ -60,37 +60,9 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
-    },
-    "image_with_text_overlay_qEkFgw": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_A873xP": {
-          "type": "heading",
-          "settings": {
-            "text": "Repousse tes limites sans sacrifier tes mains",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_A873xP"
-      ],
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
     }
   },
   "order": [
-    "faq",
-    "image_with_text_overlay_qEkFgw"
+    "faq"
   ]
 }
