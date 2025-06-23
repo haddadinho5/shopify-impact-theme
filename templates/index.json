@@ -108,18 +108,6 @@
     },
     "image_with_text_overlay_RUXfY7": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_YNahxM": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_YNahxM"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
@@ -162,18 +150,6 @@
     },
     "image_with_text_overlay_FchexR": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_fTjdkT": {
-          "type": "heading",
-          "settings": {
-            "text": "Image with text overlay",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_fTjdkT"
-      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
