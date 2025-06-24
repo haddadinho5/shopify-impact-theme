@@ -337,6 +337,53 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "tabs_MkFUat": {
+      "type": "tabs",
+      "blocks": {
+        "tab_LEEEcN": {
+          "type": "tab",
+          "settings": {
+            "title": "Caractéristiques",
+            "content": "<h5>✅ <strong>Mousse à mémoire de forme</strong> haute densité<br/>✅ <strong>Design ergonomique 3D</strong> pour un soutien cervical optimal<br/>✅ <strong>Convient à toutes les positions de sommeil</strong><br/>✅ <strong>Tissu respirant</strong> avec technologie anti-surchauffe<br/>✅ <strong>Soulage les douleurs cervicales et les tensions musculaires</strong><br/>✅ <strong>Matériaux hypoallergéniques</strong>, sans odeur ni produits nocifs<br/><br/><br/><br/></h5><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><ul><li><br/><br/><br/></li></ul><p><br/><br/></p><p><br/><br/></p><p><br/><br/></p><ul><li><br/></li></ul>",
+            "page": ""
+          }
+        },
+        "tab_rYteML": {
+          "type": "tab",
+          "settings": {
+            "title": "Essayez le 60 jours gratuitement",
+            "content": "<p>Essayez l'oreiller Viatica sans risque pendant 60 jours. Si vous n'êtes pas complètement satisfait de votre produit vous avez la possibilité de le retourner et vous recevrez un remboursement intégral.</p>",
+            "page": ""
+          }
+        },
+        "tab_aFLrhr": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_LEEEcN",
+        "tab_rYteML",
+        "tab_aFLrhr"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
@@ -347,6 +394,7 @@
     "rich_text_H4MUU4",
     "image_with_text_overlay_FchexR",
     "multi_column_xUfyda",
-    "featured_product_Nx6Yia"
+    "featured_product_Nx6Yia",
+    "tabs_MkFUat"
   ]
 }
