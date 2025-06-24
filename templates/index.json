@@ -393,6 +393,59 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "faq_DBRTgT": {
+      "type": "faq",
+      "blocks": {
+        "item_rLdzK6": {
+          "type": "item",
+          "settings": {
+            "title": "L’oreiller convient-il à toutes les positions de sommeil ?",
+            "content": "<p>Oui, l’oreiller Viatica est conçu pour s’adapter aux dormeurs sur le dos, le côté ou le ventre. Sa forme ergonomique soutient efficacement la nuque quelle que soit la posture adoptée.</p>"
+          }
+        },
+        "item_yVkW9M": {
+          "type": "item",
+          "settings": {
+            "title": "Combien de temps faut-il pour s’y habituer ?",
+            "content": "<p>Certains utilisateurs ressentent le bénéfice dès la première nuit, d’autres peuvent avoir besoin de quelques jours pour s’adapter à la nouvelle posture.</p>"
+          }
+        },
+        "item_Vr7YWg": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je renvoyer l’oreiller s’il ne me convient pas ?",
+            "content": "<p>Oui. Vous disposez de 60<strong> jours pour changer d’avis</strong>. Si vous n’êtes pas satisfait, nous vous remboursons.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_rLdzK6",
+        "item_yVkW9M",
+        "item_Vr7YWg"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -404,6 +457,7 @@
     "image_with_text_overlay_FchexR",
     "multi_column_xUfyda",
     "featured_product_Nx6Yia",
-    "tabs_MkFUat"
+    "tabs_MkFUat",
+    "faq_DBRTgT"
   ]
 }
