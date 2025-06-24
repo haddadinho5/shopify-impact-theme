@@ -417,12 +417,20 @@
             "title": "Puis-je renvoyer l’oreiller s’il ne me convient pas ?",
             "content": "<p>Oui. Vous disposez de 60<strong> jours pour changer d’avis</strong>. Si vous n’êtes pas satisfait, nous vous remboursons.<br/><br/></p>"
           }
+        },
+        "item_Bp9mx6": {
+          "type": "item",
+          "settings": {
+            "title": "Quel est le délai de livraison ?",
+            "content": "<p>Le délai de livraison est estimé entre <strong>5 et 8 jours ouvrés</strong>.<br/><br/>Une fois votre commande expédiée, vous recevrez un lien de suivi pour suivre l’acheminement de votre colis en temps réel. Nous faisons notre maximum pour que vous receviez votre oreiller Viatica dans les meilleurs délais.<br/><br/></p>"
+          }
         }
       },
       "block_order": [
         "item_rLdzK6",
         "item_yVkW9M",
-        "item_Vr7YWg"
+        "item_Vr7YWg",
+        "item_Bp9mx6"
       ],
       "name": "FAQ",
       "settings": {
