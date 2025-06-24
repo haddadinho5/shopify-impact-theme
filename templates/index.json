@@ -439,8 +439,8 @@
         "title": "FAQ",
         "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "",
+        "answer_time": "",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
@@ -454,6 +454,27 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "contact_WdiQMw": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "Notre service clientèle est disponible 7 jours sur 7. Temps de réponse moyen : 24h",
+        "title": "Une question?",
+        "content": "<p>Ecrivez-nous via le formulaire ci-desssous et nous vous répondrons dans les plus brefs délais.</p>",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "#f0c417",
+        "button_text_color": "#000000"
+      }
     }
   },
   "order": [
@@ -466,6 +487,7 @@
     "multi_column_xUfyda",
     "featured_product_Nx6Yia",
     "tabs_MkFUat",
-    "faq_DBRTgT"
+    "faq_DBRTgT",
+    "contact_WdiQMw"
   ]
 }
