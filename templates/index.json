@@ -270,10 +270,10 @@
         "variant_picker_gyb9mi": {
           "type": "variant_picker",
           "settings": {
-            "hide_sold_out_variants": false,
+            "hide_sold_out_variants": true,
             "stack_blocks": true,
-            "selector_mode": "block",
-            "color_mode": "color",
+            "selector_mode": "dropdown",
+            "color_mode": "block",
             "size_chart_page": ""
           }
         },
