@@ -63,6 +63,7 @@
         "logo_MArjPU",
         "logo_BT6Ht3"
       ],
+      "disabled": true,
       "name": "Logo list",
       "settings": {
         "full_width": true,
