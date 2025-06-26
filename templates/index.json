@@ -307,6 +307,7 @@
         },
         "image_zDgLHm": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_23_juin_2025_18_10_07.png",
             "alignment": "center",
