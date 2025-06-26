@@ -262,6 +262,12 @@
           "type": "separator",
           "settings": {}
         },
+        "kaching_bundles_app_block_hV9xpH": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "contour-pillow"
+          }
+        },
         "description_xjiCBr": {
           "type": "description",
           "settings": {
@@ -315,6 +321,7 @@
         "price_b3DkEh",
         "liquid_7aKGN9",
         "separator_aVzANk",
+        "kaching_bundles_app_block_hV9xpH",
         "description_xjiCBr",
         "variant_picker_gyb9mi",
         "quantity_selector_d66LRb",
@@ -478,6 +485,22 @@
         "button_background": "#f0c417",
         "button_text_color": "#000000"
       }
+    },
+    "1750948650c7ba3078": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
     }
   },
   "order": [
@@ -491,6 +514,7 @@
     "featured_product_Nx6Yia",
     "tabs_MkFUat",
     "faq_DBRTgT",
-    "contact_WdiQMw"
+    "contact_WdiQMw",
+    "1750948650c7ba3078"
   ]
 }
