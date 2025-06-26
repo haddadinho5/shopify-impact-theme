@@ -39,8 +39,8 @@
     "checkout_button_color": "#1a1a1a",
     "content_for_index": [],
     "blocks": {
-      "7054877461618660028": {
-        "type": "shopify://apps/moon-bundle/blocks/app-embed/aaf4cd95-8b9b-4a14-b929-0f7fc8fced27",
+      "15557474716127144420": {
+        "type": "shopify://apps/kaching-bundles/blocks/app-embed-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
         "disabled": false,
         "settings": {}
       }
