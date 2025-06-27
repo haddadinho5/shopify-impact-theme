@@ -227,6 +227,68 @@
         "text_color": ""
       }
     },
+    "multi_column_DMGDTH": {
+      "type": "multi-column",
+      "blocks": {
+        "item_VYbaiH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avis_1_9173bbb4-03ed-4773-97e5-3035dd744050.webp",
+            "column_size": "3",
+            "title": "Camille R.",
+            "heading_tag": "h4",
+            "content": "<p>Je me réveillais avec des douleurs à la nuque tous les matins. Depuis que j’ai l’oreiller Viatica, je dors mieux et me lève sans tension. Confort au top.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_wGLqFK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avis_2.webp",
+            "column_size": "3",
+            "title": "Nicolas T.",
+            "heading_tag": "h4",
+            "content": "<p>Très bonne qualité. L’oreiller épouse bien la tête et reste frais toute la nuit. Je sens vraiment la différence au réveil.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_NYCAGb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/avis_3.webp",
+            "column_size": "3",
+            "title": "Émilie P.",
+            "heading_tag": "h4",
+            "content": "<p>J’étais sceptique mais franchement bluffée. Mon sommeil est plus profond, et mon dos me remercie. Je recommande à 100 %.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_VYbaiH",
+        "item_wGLqFK",
+        "item_NYCAGb"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "featured_product_Nx6Yia": {
       "type": "featured-product",
       "blocks": {
@@ -505,23 +567,6 @@
     },
     "175094913234e31d70": {
       "type": "apps",
-      "blocks": {
-        "loox_reviews_loox_agg_section_yNUQjH": {
-          "type": "shopify://apps/loox-reviews/blocks/loox-agg-section/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
-          "settings": {
-            "only_photos": false,
-            "hide_thumbnails": false,
-            "product_handle": "",
-            "aggregated": true,
-            "data-limit": 20,
-            "maxwidth": 1080,
-            "is_sample": true
-          }
-        }
-      },
-      "block_order": [
-        "loox_reviews_loox_agg_section_yNUQjH"
-      ],
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
@@ -545,6 +590,7 @@
     "rich_text_H4MUU4",
     "image_with_text_overlay_FchexR",
     "multi_column_xUfyda",
+    "multi_column_DMGDTH",
     "featured_product_Nx6Yia",
     "tabs_MkFUat",
     "faq_DBRTgT",
