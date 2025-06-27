@@ -157,12 +157,12 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/version-am-lior-e-du-visuel-viatica.png",
+        "image": "shopify://shop_images/version-am-lior-e-du-visuel-viatica_d903f84c-b0c1-4f7b-9345-0207de28bea9.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "rich_text_H4MUU4": {
