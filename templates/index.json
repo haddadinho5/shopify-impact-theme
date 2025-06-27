@@ -157,9 +157,68 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/version-am-lior-e-du-visuel-viatica_d903f84c-b0c1-4f7b-9345-0207de28bea9.png",
+        "image": "shopify://shop_images/version-am-lior-e-du-visuel-viatica.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "rich_text_ePMjCw": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_E8twbP": {
+          "type": "heading",
+          "settings": {
+            "text": "Vos cervicales enfin soulagées, nuit après nuit",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_E8twbP"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_yAUiqf": {
+      "type": "video",
+      "blocks": {
+        "play_BtNeg4": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_QDJPx3": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "text": "Video",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "play_BtNeg4",
+        "heading_QDJPx3"
+      ],
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "auto",
+        "video": "shopify://files/videos/13e7186e1fb14b518088ce31d3f07242.SD-480p-0.9Mbps-41662443.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
@@ -631,6 +690,8 @@
     "image_with_text_overlay_RUXfY7",
     "rich_text_VQDAUp",
     "image_with_text_overlay_KfCGP8",
+    "rich_text_ePMjCw",
+    "video_yAUiqf",
     "rich_text_H4MUU4",
     "image_with_text_overlay_FchexR",
     "multi_column_xUfyda",
