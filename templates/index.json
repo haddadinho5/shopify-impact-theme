@@ -490,6 +490,14 @@
             "product": "contour-pillow"
           }
         },
+        "image_V6QTdP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4601.avif",
+            "alignment": "center",
+            "max_width": 170
+          }
+        },
         "description_xjiCBr": {
           "type": "description",
           "settings": {
@@ -545,6 +553,7 @@
         "liquid_7aKGN9",
         "separator_aVzANk",
         "kaching_bundles_app_block_hV9xpH",
+        "image_V6QTdP",
         "description_xjiCBr",
         "variant_picker_gyb9mi",
         "quantity_selector_d66LRb",
