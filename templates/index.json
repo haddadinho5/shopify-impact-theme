@@ -81,6 +81,65 @@
         "logo_item_border": ""
       }
     },
+    "logo_list_LxDe7L": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_Wg6qB6": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/4_2636a91e-652b-49cd-b10c-0bf19a6bd7ef.avif",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_9738Tq": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/3_e13072eb-cc51-4e59-b7a9-2f15fc703b64.avif",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_rMLqVa": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/naturavignon.avif",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_9jxAiT": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/doctisimo.avif",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_Wg6qB6",
+        "logo_9738Tq",
+        "logo_rMLqVa",
+        "logo_9jxAiT"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Ils parlent de nous:",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "rich_text_G7kepJ": {
       "type": "rich-text",
       "blocks": {
@@ -568,6 +627,22 @@
         "heading_gradient": ""
       }
     },
+    "image_with_text_overlay_ywKryq": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Service_client_nutrivuue.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "faq_DBRTgT": {
       "type": "faq",
       "blocks": {
@@ -686,6 +761,7 @@
   "order": [
     "image_with_text_overlay_d6ng38",
     "logo_list_qkdaDK",
+    "logo_list_LxDe7L",
     "rich_text_G7kepJ",
     "image_with_text_overlay_RUXfY7",
     "rich_text_VQDAUp",
@@ -698,6 +774,7 @@
     "multi_column_DMGDTH",
     "featured_product_Nx6Yia",
     "tabs_MkFUat",
+    "image_with_text_overlay_ywKryq",
     "faq_DBRTgT",
     "contact_WdiQMw",
     "1750948650c7ba3078",
