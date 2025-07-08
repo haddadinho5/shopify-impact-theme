@@ -492,6 +492,7 @@
         },
         "image_V6QTdP": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_3_juil._2025_09_16_46.png",
             "alignment": "center",
@@ -500,6 +501,7 @@
         },
         "image_rUYxCD": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/IMG_4601.avif",
             "alignment": "center",
@@ -596,7 +598,7 @@
           "type": "tab",
           "settings": {
             "title": "Caractéristiques",
-            "content": "<h5>✅ <strong>Mousse à mémoire de forme</strong> haute densité.<br/>✅ <strong>Design ergonomique 3D</strong> pour un soutien cervical optimal.<br/>✅ <strong>Convient à toutes les positions de sommeil.</strong><br/>✅ <strong>Tissu respirant</strong> avec technologie anti-surchauffe.<br/>✅ <strong>Soulage les douleurs cervicales et les tensions musculaires.</strong><br/>✅ <strong>Matériaux hypoallergéniques</strong>, sans odeur ni produits nocifs.</h5>",
+            "content": "<h6>✅ <strong>Mousse à mémoire de forme</strong> haute densité.<br/>✅ <strong>Design ergonomique 3D</strong> pour un soutien cervical optimal.<br/>✅ <strong>Convient à toutes les positions de sommeil.</strong><br/>✅ <strong>Tissu respirant</strong> avec technologie anti-surchauffe.<br/>✅ <strong>Soulage les douleurs cervicales et les tensions musculaires.</strong><br/>✅ <strong>Matériaux hypoallergéniques</strong>, sans odeur ni produits nocifs.</h6>",
             "page": ""
           }
         },
