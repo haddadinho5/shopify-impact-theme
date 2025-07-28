@@ -11,13 +11,25 @@
   "sections": {
     "image_with_text_overlay_d6ng38": {
       "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_XGD8Ly": {
+          "type": "heading",
+          "settings": {
+            "text": "Peli incarniti, irritazioni, arrossamenti? Evitali per sempre!",
+            "heading_tag": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_XGD8Ly"
+      ],
       "name": "Image with text overlay",
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/banner-avec-le-bon-produit-d-cor-scandinave.png",
+        "image": "shopify://shop_images/femme-de-style-italien-avec-le-produit.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -484,12 +496,6 @@
           "type": "separator",
           "settings": {}
         },
-        "kaching_bundles_app_block_hV9xpH": {
-          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-          "settings": {
-            "product": "contour-pillow"
-          }
-        },
         "image_V6QTdP": {
           "type": "image",
           "disabled": true,
@@ -562,7 +568,6 @@
         "price_b3DkEh",
         "liquid_7aKGN9",
         "separator_aVzANk",
-        "kaching_bundles_app_block_hV9xpH",
         "image_V6QTdP",
         "image_rUYxCD",
         "description_xjiCBr",
