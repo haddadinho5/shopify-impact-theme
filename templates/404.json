@@ -42,10 +42,114 @@
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
+    },
+    "logo_list_XimxEU": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_YDrW9N": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_3b923b11-a209-4aa1-9960-1abf9295591b.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_NRzRGz": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Cosmopolitan-Logo.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_3V9xDp": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/2560px-Marie_Claire_Magazine_logo.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_JKww3n": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/ELLE_Magazine_Logo.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_YDrW9N",
+        "logo_NRzRGz",
+        "logo_3V9xDp",
+        "logo_JKww3n"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Si parla di noi :",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "rich_text_V9idBd": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_ypdFPi": {
+          "type": "heading",
+          "settings": {
+            "text": "Perché scegliere Velina ?",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_ypdFPi"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_8tJPjt": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Votre_texte_de_paragraphe.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
     "main",
-    "image_with_text_overlay_9e7K8D"
+    "image_with_text_overlay_9e7K8D",
+    "logo_list_XimxEU",
+    "rich_text_V9idBd",
+    "image_with_text_overlay_8tJPjt"
   ]
 }
