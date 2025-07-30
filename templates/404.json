@@ -462,6 +462,32 @@
         "accordion_text_color": "#000000"
       }
     },
+    "rich_text_kCGFgp": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_M93mcj": {
+          "type": "heading",
+          "settings": {
+            "text": "Velina vs Cera vs Laser",
+            "heading_tag": "h3",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_M93mcj"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_with_text_overlay_iLp37E": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -478,6 +504,99 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "faq_8DRWf3": {
+      "type": "faq",
+      "blocks": {
+        "item_Rnrrpw": {
+          "type": "item",
+          "settings": {
+            "title": "Il rasoio Velina è adatto alle pelli sensibili?",
+            "content": "<p><strong>Sì.</strong> È stato progettato appositamente per le zone sensibili come l’inguine, le ascelle e il viso. Le lame non irritano la pelle e garantiscono una rasatura delicata e senza tagli.</p>"
+          }
+        },
+        "item_yDVRti": {
+          "type": "item",
+          "settings": {
+            "title": "Posso usarlo anche sotto la doccia?",
+            "content": "<p><strong>Certamente.</strong> Il Velina è resistente all’acqua (standard IPX7) e può essere utilizzato sia sulla pelle asciutta che bagnata.<br/><br/></p>"
+          }
+        },
+        "item_J3qLPr": {
+          "type": "item",
+          "settings": {
+            "title": "Quanto dura la batteria?",
+            "content": "<p><strong>Fino a 60 minuti</strong> di utilizzo continuo con una sola carica. Si ricarica completamente in circa 2 ore con il cavo USB-C incluso.<br/><br/></p>"
+          }
+        },
+        "item_pFXngU": {
+          "type": "item",
+          "settings": {
+            "title": "Serve cambiare le lame?",
+            "content": "<p><strong>No frequentemente.</strong> Le lame in acciaio inox sono progettate per durare nel tempo. Se usato correttamente, non è necessario sostituirle per molti mesi.<br/><br/><br/></p>"
+          }
+        },
+        "item_wqt9Ne": {
+          "type": "item",
+          "settings": {
+            "title": "Quanto rumore fa durante l’uso?",
+            "content": "<p><strong> Molto poco.</strong> Il motore è silenzioso e discreto, perfetto per un utilizzo confortevole in qualsiasi momento.<br/><br/><br/><br/></p>"
+          }
+        },
+        "item_p93e3d": {
+          "type": "item",
+          "settings": {
+            "title": "Quanto è efficace rispetto alla ceretta o alla luce pulsata?",
+            "content": "<p><strong>Più rapido e meno doloroso.</strong> A differenza della ceretta o della luce pulsata, Velina agisce senza dolore, senza rossori e senza attese. I risultati sono immediati.<br/><br/></p>"
+          }
+        },
+        "item_zxTggw": {
+          "type": "item",
+          "settings": {
+            "title": "Qual è la vostra politica di reso?",
+            "content": "<p><strong>30 giorni soddisfatti o rimborsati.</strong> Se non sei soddisfatta, puoi restituire il prodotto per un rimborso completo, senza dover giustificare nulla.<br/><br/><br/><br/></p>"
+          }
+        },
+        "item_zLtCCN": {
+          "type": "item",
+          "settings": {
+            "title": "Quanto tempo impiega la consegna?",
+            "content": "<p><strong>Tra i 5 e i 7 giorni lavorativi.</strong> Spediamo direttamente dall’Italia con tracciabilità completa.<br/><br/><br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_Rnrrpw",
+        "item_yDVRti",
+        "item_J3qLPr",
+        "item_pFXngU",
+        "item_wqt9Ne",
+        "item_p93e3d",
+        "item_zxTggw",
+        "item_zLtCCN"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -490,6 +609,8 @@
     "multi_column_VkiYVK",
     "featured_product_yRXyTj",
     "faq_JNCUFM",
-    "image_with_text_overlay_iLp37E"
+    "rich_text_kCGFgp",
+    "image_with_text_overlay_iLp37E",
+    "faq_8DRWf3"
   ]
 }
