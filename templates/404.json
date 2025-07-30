@@ -271,28 +271,28 @@
     "featured_product_yRXyTj": {
       "type": "featured-product",
       "blocks": {
-        "liquid_cUnfzw": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"display: flex; align-items: center; font-size: 14px;\">\n  <div style=\"color: #00c48c; margin-right: 6px;\">\n    {% for i in (1..5) %}\n      <svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"#00c48c\" xmlns=\"http://www.w3.org/2000/svg\" style=\"margin-right: 1px;\">\n        <path d=\"M12 2l2.92 6.26L22 9.27l-5 4.87L18.18 22 12 18.56 5.82 22 7 14.14l-5-4.87 7.08-1.01L12 2z\"/>\n      </svg>\n    {% endfor %}\n  </div>\n  <div style=\"color: #555;\">\n    <span><strong>4.7</strong> (7834 recensioni)</span>\n  </div>\n</div>"
-          }
-        },
-        "vendor_rqEqRV": {
-          "type": "vendor",
-          "disabled": true,
-          "settings": {}
-        },
         "title_A8KXxL": {
           "type": "title",
           "settings": {
             "heading_tag": "h2"
           }
         },
-        "liquid_GDUptc": {
+        "liquid_cUnfzw": {
           "type": "liquid",
           "settings": {
-            "liquid": "<ul style=\"list-style: none; padding: 0;\">\n  <li style=\"margin-bottom: 8px;\">\n    ✅ Può essere usato su pelle asciutta o bagnata\n  </li>\n  <li style=\"margin-bottom: 8px;\">\n    ✅ Nessun taglio né irritazione cutanea\n  </li>\n  <li style=\"margin-bottom: 8px;\">\n    ✅ Pelle completamente liscia, senza stoppie!\n  </li>\n  <li>\n    ✅ 3 testine di precisione – ideali per le zone sensibili\n  </li>\n</ul>"
+            "liquid": "<div style=\"display: flex; align-items: center; font-size: 14px;\">\n  <div style=\"color: #00c48c; margin-right: 6px;\">\n    {% for i in (1..5) %}\n      <svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"#00c48c\" xmlns=\"http://www.w3.org/2000/svg\" style=\"margin-right: 1px;\">\n        <path d=\"M12 2l2.92 6.26L22 9.27l-5 4.87L18.18 22 12 18.56 5.82 22 7 14.14l-5-4.87 7.08-1.01L12 2z\"/>\n      </svg>\n    {% endfor %}\n  </div>\n  <div style=\"color: #555;\">\n    <span><strong>4.7</strong> (7834 recensioni)</span>\n  </div>\n</div>"
           }
+        },
+        "liquid_iqeDk6": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"background-color: #ffe6e6; padding: 8px 12px; border-radius: 6px; color: #b30000; font-size: 14px; display: inline-block;\">\n  <span style=\"font-weight: bold;\">•</span> In magazzino: <strong>solo 3 pezzi rimasti</strong>\n</div>"
+          }
+        },
+        "vendor_rqEqRV": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {}
         },
         "badges_34EXmt": {
           "type": "badges",
@@ -304,10 +304,18 @@
             "show_taxes_notice": false
           }
         },
-        "liquid_iqeDk6": {
+        "liquid_GDUptc": {
           "type": "liquid",
           "settings": {
-            "liquid": "<div style=\"background-color: #ffe6e6; padding: 8px 12px; border-radius: 6px; color: #b30000; font-size: 14px; display: inline-block;\">\n  <span style=\"font-weight: bold;\">•</span> In magazzino: <strong>solo 3 pezzi rimasti</strong>\n</div>"
+            "liquid": "<ul style=\"list-style: none; padding: 0;\">\n  <li style=\"margin-bottom: 8px;\">\n    ✅ Può essere usato su pelle asciutta o bagnata\n  </li>\n  <li style=\"margin-bottom: 8px;\">\n    ✅ Nessun taglio né irritazione cutanea\n  </li>\n  <li style=\"margin-bottom: 8px;\">\n    ✅ Pelle completamente liscia, senza stoppie!\n  </li>\n  <li>\n    ✅ 3 testine di precisione – ideali per le zone sensibili\n  </li>\n</ul>"
+          }
+        },
+        "image_Em6wQ3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Ultima_possibilita_1.png",
+            "alignment": "start",
+            "max_width": 390
           }
         },
         "rating_eEjRAh": {
@@ -351,25 +359,35 @@
             "payment_button_text_color": ""
           }
         },
+        "image_3NqhmQ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_180841.png",
+            "alignment": "start",
+            "max_width": 500
+          }
+        },
         "pickup_availability_JHwcmw": {
           "type": "pickup_availability",
           "settings": {}
         }
       },
       "block_order": [
-        "liquid_cUnfzw",
-        "vendor_rqEqRV",
         "title_A8KXxL",
-        "liquid_GDUptc",
+        "liquid_cUnfzw",
+        "liquid_iqeDk6",
+        "vendor_rqEqRV",
         "badges_34EXmt",
         "price_DW366V",
-        "liquid_iqeDk6",
+        "liquid_GDUptc",
+        "image_Em6wQ3",
         "rating_eEjRAh",
         "separator_P9MXzr",
         "description_MHzDzx",
         "variant_picker_tFta7i",
         "quantity_selector_Txf3ny",
         "buy_buttons_B76Kpq",
+        "image_3NqhmQ",
         "pickup_availability_JHwcmw"
       ],
       "name": "Featured product",
