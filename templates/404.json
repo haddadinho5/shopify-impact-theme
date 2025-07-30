@@ -408,6 +408,23 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
+    },
+    "image_with_text_overlay_iLp37E": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Indolore_e_ultra_delicato_1.png",
+        "mobile_image": "shopify://shop_images/Indolore_e_ultra_delicato_1.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
     }
   },
   "order": [
@@ -418,6 +435,7 @@
     "image_with_text_overlay_8tJPjt",
     "multi_column_77gFPC",
     "multi_column_VkiYVK",
-    "featured_product_yRXyTj"
+    "featured_product_yRXyTj",
+    "image_with_text_overlay_iLp37E"
   ]
 }
