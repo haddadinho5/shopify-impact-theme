@@ -288,12 +288,6 @@
             "heading_tag": "h2"
           }
         },
-        "liquid_iqeDk6": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"background-color: #ffe6e6; padding: 8px 12px; border-radius: 6px; color: #b30000; font-size: 14px; display: inline-block;\">\n  <span style=\"font-weight: bold;\">•</span> In magazzino: <strong>solo 3 pezzi rimasti</strong>\n</div>"
-          }
-        },
         "badges_34EXmt": {
           "type": "badges",
           "settings": {}
@@ -302,6 +296,12 @@
           "type": "price",
           "settings": {
             "show_taxes_notice": false
+          }
+        },
+        "liquid_iqeDk6": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"background-color: #ffe6e6; padding: 8px 12px; border-radius: 6px; color: #b30000; font-size: 14px; display: inline-block;\">\n  <span style=\"font-weight: bold;\">•</span> In magazzino: <strong>solo 3 pezzi rimasti</strong>\n</div>"
           }
         },
         "rating_eEjRAh": {
@@ -354,9 +354,9 @@
         "liquid_cUnfzw",
         "vendor_rqEqRV",
         "title_A8KXxL",
-        "liquid_iqeDk6",
         "badges_34EXmt",
         "price_DW366V",
+        "liquid_iqeDk6",
         "rating_eEjRAh",
         "separator_P9MXzr",
         "description_MHzDzx",
