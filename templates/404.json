@@ -143,6 +143,68 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
+    },
+    "multi_column_77gFPC": {
+      "type": "multi-column",
+      "blocks": {
+        "item_qRrAhG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ASCELLE_CON_RICRESCITA_RAPIDA.png",
+            "column_size": "3",
+            "title": "Giulia R.",
+            "heading_tag": "h4",
+            "content": "<p>⭐️⭐️⭐️⭐️⭐️<br/><br/>Avevo sempre il problema della ricrescita rapidissima: mi radevo la mattina e la sera avevo già i puntini neri! Da quando uso Velina, la pelle rimane liscia per giorni, senza irritazioni. Sono davvero soddisfatta, non pensavo che una semplice rifinitrice potesse fare la differenza. Consigliatissima!<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_VKyiAX": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/PELI_LUNGHI_SULLE_GAMBE.png",
+            "column_size": "3",
+            "title": "Martina C.",
+            "heading_tag": "h4",
+            "content": "<p>⭐️⭐️⭐️⭐️⭐️<br/></p><p>I miei peli erano sempre lunghi e spessi, e la ceretta era un incubo. Con Velina riesco a ottenere una pelle liscia in pochi minuti, senza dolore e senza irritazioni. È diventato il mio alleato prima di ogni uscita. Facile da usare, preciso, e soprattutto efficace!<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_mBAdx6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/RICRESCITA_RAPIDA_INTORNO_ALL_OMBELICO.png",
+            "column_size": "3",
+            "title": "Sara L.",
+            "heading_tag": "h4",
+            "content": "<p>⭐️⭐️⭐️⭐️⭐️<br/><br/>Soffrivo da anni della ricrescita rapida dei peli sull’addome, soprattutto intorno all’ombelico… Imbarazzante e difficile da gestire. Con Velina ho trovato finalmente una soluzione semplice: veloce, indolore, e con risultati duraturi. La pelle rimane liscia e uniforme per giorni!</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_qRrAhG",
+        "item_VKyiAX",
+        "item_mBAdx6"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Le nostre clienti ne parlano al meglio",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -150,6 +212,7 @@
     "image_with_text_overlay_9e7K8D",
     "logo_list_XimxEU",
     "rich_text_V9idBd",
-    "image_with_text_overlay_8tJPjt"
+    "image_with_text_overlay_8tJPjt",
+    "multi_column_77gFPC"
   ]
 }
