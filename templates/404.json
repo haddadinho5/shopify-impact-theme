@@ -267,6 +267,115 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "featured_product_yRXyTj": {
+      "type": "featured-product",
+      "blocks": {
+        "liquid_cUnfzw": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"display: flex; align-items: center; font-size: 14px;\">\n  <div style=\"color: #00c48c; margin-right: 6px;\">\n    {% for i in (1..5) %}\n      <svg width=\"16\" height=\"16\" viewBox=\"0 0 24 24\" fill=\"#00c48c\" xmlns=\"http://www.w3.org/2000/svg\" style=\"margin-right: 1px;\">\n        <path d=\"M12 2l2.92 6.26L22 9.27l-5 4.87L18.18 22 12 18.56 5.82 22 7 14.14l-5-4.87 7.08-1.01L12 2z\"/>\n      </svg>\n    {% endfor %}\n  </div>\n  <div style=\"color: #555;\">\n    <span><strong>4.7</strong> (7834 recensioni)</span>\n  </div>\n</div>"
+          }
+        },
+        "vendor_rqEqRV": {
+          "type": "vendor",
+          "disabled": true,
+          "settings": {}
+        },
+        "title_A8KXxL": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_34EXmt": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_DW366V": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_eEjRAh": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_P9MXzr": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_MHzDzx": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_tFta7i": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_Txf3ny": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_B76Kpq": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_JHwcmw": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "liquid_cUnfzw",
+        "vendor_rqEqRV",
+        "title_A8KXxL",
+        "badges_34EXmt",
+        "price_DW366V",
+        "rating_eEjRAh",
+        "separator_P9MXzr",
+        "description_MHzDzx",
+        "variant_picker_tFta7i",
+        "quantity_selector_Txf3ny",
+        "buy_buttons_B76Kpq",
+        "pickup_availability_JHwcmw"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "velina",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
     }
   },
   "order": [
@@ -276,6 +385,7 @@
     "rich_text_V9idBd",
     "image_with_text_overlay_8tJPjt",
     "multi_column_77gFPC",
-    "multi_column_VkiYVK"
+    "multi_column_VkiYVK",
+    "featured_product_yRXyTj"
   ]
 }
