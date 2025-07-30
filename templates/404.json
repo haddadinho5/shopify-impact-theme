@@ -363,7 +363,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Capture_d_ecran_2025-07-30_180841.png",
-            "alignment": "start",
+            "alignment": "center",
             "max_width": 500
           }
         },
