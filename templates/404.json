@@ -288,6 +288,12 @@
             "heading_tag": "h2"
           }
         },
+        "liquid_GDUptc": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<ul style=\"list-style: none; padding: 0;\">\n  <li style=\"margin-bottom: 8px;\">\n    ✅ Può essere usato su pelle asciutta o bagnata\n  </li>\n  <li style=\"margin-bottom: 8px;\">\n    ✅ Nessun taglio né irritazione cutanea\n  </li>\n  <li style=\"margin-bottom: 8px;\">\n    ✅ Pelle completamente liscia, senza stoppie!\n  </li>\n  <li>\n    ✅ 3 testine di precisione – ideali per le zone sensibili\n  </li>\n</ul>"
+          }
+        },
         "badges_34EXmt": {
           "type": "badges",
           "settings": {}
@@ -337,10 +343,10 @@
         "buy_buttons_B76Kpq": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "#f0c417",
+            "atc_button_text_color": "#1a1a1a",
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
@@ -354,6 +360,7 @@
         "liquid_cUnfzw",
         "vendor_rqEqRV",
         "title_A8KXxL",
+        "liquid_GDUptc",
         "badges_34EXmt",
         "price_DW366V",
         "liquid_iqeDk6",
