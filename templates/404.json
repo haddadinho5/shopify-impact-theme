@@ -409,6 +409,59 @@
         "input_text_color": ""
       }
     },
+    "faq_JNCUFM": {
+      "type": "faq",
+      "blocks": {
+        "item_HMcLQq": {
+          "type": "item",
+          "settings": {
+            "title": "Che cos'è la Velina?",
+            "content": "<p>Scoprite Velina, il rasoio 2 in 1 che trasforma la vostra routine di bellezza.<br/><br/>Con il suo design a doppia testina, combina precisione e delicatezza per una pelle perfetta, ovunque vi troviate.<br/><br/>Dimenticate le cerette dolorose, i laser costosi e le irritanti lame usa e getta: Velina offre tutto il comfort senza i soliti problemi.<br/><br/>Impermeabile e ricaricabile tramite USB-C, può essere utilizzato sia sulla pelle bagnata che asciutta.<br/><br/>Ideale per le pelli sensibili, elimina le irritazioni, i peli incarniti e previene i tagli.<br/><br/>Dite addio alle costrizioni e date il benvenuto a una soluzione pratica, rapida e indolore per una pelle morbida e impeccabile ogni giorno!</p>"
+          }
+        },
+        "item_XKXVWP": {
+          "type": "item",
+          "settings": {
+            "title": "Cosa contiene la confezione di Velina?",
+            "content": "<p>La confezione Velina è dotata di tutto il necessario per un'esperienza completa e conveniente:<br/><br/>Testina per il taglio del corpo: progettata per rimuovere rapidamente i peli da aree estese.<br/>Testina di precisione: ideale per le aree sensibili e per una finitura perfetta.<br/>Accessori inclusi:<br/>Una scarpa<br/><br/>Cavo di ricarica<br/><br/>Spazzola per la pulizia<br/><br/>Manuale d'uso<br/><br/>+ Guanto esfoliante in omaggio!<br/><br/>Un trattamento facile e preciso per ogni zona del corpo!</p>"
+          }
+        },
+        "item_bcDrRj": {
+          "type": "item",
+          "settings": {
+            "title": "Istruzioni per l'uso",
+            "content": "<p>1. Esfoliare prima della rasatura (24 ore prima)<br/><br/>Utilizzare il guanto esfoliante con movimenti circolari per rimuovere le cellule morte e liberare i peli incarniti.<br/><br/>Asciugate la pelle o lasciatela leggermente umida, secondo le vostre preferenze.<br/><br/>2. Ordine di utilizzo delle testine<br/><br/>Testina lunga: accorcia prima i peli più lunghi.<br/><br/>Testina Trimmer: uniforma la lunghezza su tutta l'area.<br/><br/>Testina di precisione: terminare mantenendo la pelle leggermente tesa.<br/><br/>3. Tecnica di rasatura<br/><br/>Inclinare l'apparecchio a circa 30° rispetto alla pelle.<br/><br/>Applicare una leggera pressione e lasciare che la lama scivoli dolcemente.<br/><br/>Radere prima nella direzione dei peli, poi, se necessario, contropelo, con una o due passate.<br/><br/>4. Cura post-rasatura<br/><br/>Asciugare delicatamente la pelle.<br/><br/>Applicare un gel o una crema lenitiva senza alcool per calmare eventuali arrossamenti.<br/><br/>5. Esfoliazione post-rasatura (48 ore dopo la rasatura)<br/><br/>Attendere almeno due giorni affinché la barriera cutanea si riprenda.<br/><br/>Esfoliare delicatamente per prevenire i peli incarniti e mantenere la pelle pulita senza irritazioni.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_HMcLQq",
+        "item_XKXVWP",
+        "item_bcDrRj"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "start",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "#1a1a1a",
+        "heading_color": "#ffffff",
+        "heading_gradient": "",
+        "button_background": "#ffffff",
+        "button_text_color": "#ffffff",
+        "accordion_background": "#ffffff",
+        "accordion_text_color": "#000000"
+      }
+    },
     "image_with_text_overlay_iLp37E": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -436,6 +489,7 @@
     "multi_column_77gFPC",
     "multi_column_VkiYVK",
     "featured_product_yRXyTj",
+    "faq_JNCUFM",
     "image_with_text_overlay_iLp37E"
   ]
 }
