@@ -93,7 +93,7 @@
           "settings": {
             "image_width": 150,
             "heading_size": "h3",
-            "title": "Inscrivez vous pour recevoir nos offres et actualités",
+            "title": "Iscriviti per ricevere le nostre offerte e notizie",
             "content": ""
           }
         },
@@ -107,7 +107,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "Nous contacter",
+            "title": "Contattateci",
             "content": "<p><strong>Service client</strong> : contact@viatica.co</p><p><strong>Horaires</strong> : Du Lun au Ven de 9h à 12 et de 14h à 19h / Sam et Dim de 10h à 14h</p>",
             "enable_follow_on_shop": false
           }
