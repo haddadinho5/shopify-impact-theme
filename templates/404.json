@@ -205,6 +205,68 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "multi_column_VkiYVK": {
+      "type": "multi-column",
+      "blocks": {
+        "item_BGNfai": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/TAGLI_E_PELI_INCARNITI.png",
+            "column_size": "3",
+            "title": "Francesa B.",
+            "heading_tag": "h4",
+            "content": "<p>⭐️⭐️⭐️⭐️⭐️<br/><br/>Ogni volta che usavo il rasoio per il bikini finiva in disastro: pelle irritata, tagli e peli incarniti ovunque. Da quando uso Velina, è un’altra storia. Il taglio è delicato ma efficace, et la mia pelle è finalmente liscia e sana. Lo consiglio a tutte, davvero!<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ThDAFb": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ARROSSIAMENTI_SULLE_GAMBE.png",
+            "column_size": "3",
+            "title": "Alessandra M.",
+            "heading_tag": "h4",
+            "content": "<p>⭐️⭐️⭐️⭐️⭐️<br/><br/>Dopo ogni rasatura le mie gambe erano sempre piene di puntini rossi e bruciavano. Con Velina non solo ho una rasatura precisa, ma la pelle rimane morbida e senza irritazioni. Perfetto anche per le pelli sensibili come la mia!<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_c9GPtL": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Votre_texte_de_paragraphe_1.png",
+            "column_size": "3",
+            "title": "Chiara G.",
+            "heading_tag": "h4",
+            "content": "<p>⭐️⭐️⭐️⭐️⭐️<br/><br/>Le mie ascelle erano sempre scure, sensibili e facilmente irritabili. Qualsiasi rasoio mi causava rossori o pruriti. Con Velina ho trovato una soluzione che non solo rimuove i peli, ma lascia la pelle morbida e senza fastidi. Non posso più farne a meno!</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_BGNfai",
+        "item_ThDAFb",
+        "item_c9GPtL"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -213,6 +275,7 @@
     "logo_list_XimxEU",
     "rich_text_V9idBd",
     "image_with_text_overlay_8tJPjt",
-    "multi_column_77gFPC"
+    "multi_column_77gFPC",
+    "multi_column_VkiYVK"
   ]
 }
