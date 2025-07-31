@@ -488,21 +488,34 @@
         "text_color": ""
       }
     },
-    "image_with_text_overlay_iLp37E": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
+    "1753941916d682e947": {
+      "type": "apps",
+      "blocks": {
+        "pretty_comparison_tables_table_hLLYJy": {
+          "type": "shopify://apps/pretty-comparison-tables/blocks/table/4ce14980-e26b-4398-92cd-f582d95d4f05",
+          "settings": {
+            "product": "velina",
+            "title_text": "",
+            "title_font_tag": "h2",
+            "section_background_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "pretty_comparison_tables_table_hLLYJy"
+      ],
       "settings": {
         "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Indolore_e_ultra_delicato_1.png",
-        "mobile_image": "shopify://shop_images/Indolore_e_ultra_delicato_1.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
       }
     },
     "faq_8DRWf3": {
@@ -618,36 +631,6 @@
         "button_background": "#f0c417",
         "button_text_color": "#000000"
       }
-    },
-    "1753941916d682e947": {
-      "type": "apps",
-      "blocks": {
-        "pretty_comparison_tables_table_hLLYJy": {
-          "type": "shopify://apps/pretty-comparison-tables/blocks/table/4ce14980-e26b-4398-92cd-f582d95d4f05",
-          "settings": {
-            "product": "velina",
-            "title_text": "",
-            "title_font_tag": "h2",
-            "section_background_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "pretty_comparison_tables_table_hLLYJy"
-      ],
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "enable_review_integration": true,
-        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
-        "review_header_text_color": "#000000",
-        "review_button_background": "#000000",
-        "review_button_text_color": "#ffffff"
-      }
     }
   },
   "order": [
@@ -661,9 +644,8 @@
     "featured_product_yRXyTj",
     "faq_JNCUFM",
     "rich_text_kCGFgp",
-    "image_with_text_overlay_iLp37E",
+    "1753941916d682e947",
     "faq_8DRWf3",
-    "contact_LxjtGK",
-    "1753941916d682e947"
+    "contact_LxjtGK"
   ]
 }
