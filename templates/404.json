@@ -662,6 +662,19 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "custom_html_PaGRkH": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "html": "<style>\n  .recensioni-scroll-container {\n    overflow: hidden;\n    width: 100%;\n  }\n\n  .recensioni-scroll {\n    display: flex;\n    gap: 16px;\n    min-width: max-content;\n    animation: scrollRecensioni 60s linear infinite;\n  }\n\n  .recensione-box {\n    min-width: 280px;\n    max-width: 300px;\n    flex: 0 0 auto;\n    border: 1px solid #e0e0e0;\n    border-radius: 12px;\n    padding: 1.2rem;\n    box-shadow: 0 1px 3px rgba(0,0,0,0.05);\n    background-color: white;\n  }\n\n  .recensione-stars {\n    color: #f5a623;\n    font-size: 1.1rem;\n    margin-bottom: 0.6rem;\n  }\n\n  .recensione-nome {\n    font-weight: bold;\n    margin-top: 1rem;\n    margin-bottom: 0.2rem;\n  }\n\n  .recensione-verificato {\n    font-size: 0.85rem;\n    color: #666;\n  }\n\n  @keyframes scrollRecensioni {\n    0%   { transform: translateX(0); }\n    100% { transform: translateX(-50%); }\n  }\n</style>\n\n<div class=\"recensioni-scroll-container\">\n  <div class=\"recensioni-scroll\">\n    <!-- Les 30 avis sont ici, dupliqués 2x pour défilement fluide -->\n</div>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -679,6 +692,7 @@
     "faq_8DRWf3",
     "rich_text_Yr7xCC",
     "custom_liquid_BcCH3c",
-    "custom_html_Gn7UbB"
+    "custom_html_Gn7UbB",
+    "custom_html_PaGRkH"
   ]
 }
