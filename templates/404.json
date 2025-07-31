@@ -636,6 +636,19 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "custom_liquid_BcCH3c": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  .recensioni-scroll-container {\n    overflow-x: auto;\n    padding: 1rem 0;\n  }\n\n  .recensioni-scroll {\n    display: flex;\n    gap: 16px;\n    min-width: max-content;\n  }\n\n  .recensione-box {\n    min-width: 280px;\n    max-width: 300px;\n    flex: 0 0 auto;\n    border: 1px solid #e0e0e0;\n    border-radius: 12px;\n    padding: 1.2rem;\n    box-shadow: 0 1px 3px rgba(0,0,0,0.05);\n    background-color: white;\n  }\n\n  .recensione-stars {\n    color: #f5a623;\n    font-size: 1.1rem;\n    margin-bottom: 0.6rem;\n  }\n\n  .recensione-nome {\n    font-weight: bold;\n    margin-top: 1rem;\n    margin-bottom: 0.2rem;\n  }\n\n  .recensione-verificato {\n    font-size: 0.85rem;\n    color: #666;\n  }\n\n  /* Scrollbar styling (facultatif) */\n  .recensioni-scroll-container::-webkit-scrollbar {\n    height: 8px;\n  }\n  .recensioni-scroll-container::-webkit-scrollbar-thumb {\n    background-color: #ccc;\n    border-radius: 10px;\n  }\n</style>\n\n<div class=\"recensioni-scroll-container\">\n  <div class=\"recensioni-scroll\">\n    {% assign recensioni = \"Giulia:Ho la pelle molto delicata e finalmente niente irritazioni.|Francesca:Comodissimo, lo uso ogni giorno e mai avuto problemi.|Elena:Ottimo rasoio, molto meglio di quelli usa e getta.|Chiara:Semplice da usare, anche per chi non è esperta.|Anna:La spedizione è stata veloce e il packaging curato.|Sofia:Lo uso anche sotto la doccia, fantastico.|Martina:Pensavo fosse fragile, invece è resistente e potente.|Valentina:Mi ha cambiato la routine di depilazione.|Lucia:Rimuove i peli senza lasciare la pelle rossa.|Sara:La batteria dura giorni, sono super soddisfatta.|Camilla:Regalato a mia sorella, lo adora.|Giorgia:Nessun pelo incarnito da quando lo uso.|Beatrice:Fa quello che promette, lo consiglio.|Isabella:Risultati visibili subito, pelle liscia.|Nicole:Design bellissimo e funzionale.|Veronica:L’ho comprato con uno sconto, ottimo affare!|Irene:Mi fa risparmiare tempo e soldi.|Noemi:Anche i peli più duri non sono un problema.|Arianna:Non mi ha mai causato arrossamenti.|Cristina:Finalmente un rasoio per pelli sensibili.\" | split: \"|\" %}\n\n    {% for recensione in recensioni %}\n      {% assign parts = recensione | split: \":\" %}\n      <div class=\"recensione-box\">\n        <div class=\"recensione-stars\">★★★★★</div>\n        <p>{{ parts[1] }}</p>\n        <div class=\"recensione-nome\">{{ parts[0] }}</div>\n        <div class=\"recensione-verificato\">Acquirente verificata</div>\n      </div>\n    {% endfor %}\n  </div>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -651,6 +664,7 @@
     "rich_text_kCGFgp",
     "1753943352100e7b6b",
     "faq_8DRWf3",
-    "rich_text_Yr7xCC"
+    "rich_text_Yr7xCC",
+    "custom_liquid_BcCH3c"
   ]
 }
