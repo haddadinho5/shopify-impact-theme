@@ -649,6 +649,19 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "custom_html_Gn7UbB": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "html": "<p style=\"text-align: center\">Write or copy/paste HTML code</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -665,6 +678,7 @@
     "1753943352100e7b6b",
     "faq_8DRWf3",
     "rich_text_Yr7xCC",
-    "custom_liquid_BcCH3c"
+    "custom_liquid_BcCH3c",
+    "custom_html_Gn7UbB"
   ]
 }
