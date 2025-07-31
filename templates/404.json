@@ -346,7 +346,14 @@
         },
         "quantity_selector_Txf3ny": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {}
+        },
+        "countdown_timer_essential_app_block_fX7BLM": {
+          "type": "shopify://apps/countdown-timer-essential/blocks/app-block/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": "cmdr1pv8x000zznkm4xc6d26w"
+          }
         },
         "buy_buttons_B76Kpq": {
           "type": "buy_buttons",
@@ -386,6 +393,7 @@
         "description_MHzDzx",
         "variant_picker_tFta7i",
         "quantity_selector_Txf3ny",
+        "countdown_timer_essential_app_block_fX7BLM",
         "buy_buttons_B76Kpq",
         "image_3NqhmQ",
         "pickup_availability_JHwcmw"
