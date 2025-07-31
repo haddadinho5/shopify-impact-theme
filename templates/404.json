@@ -611,26 +611,30 @@
         "accordion_text_color": ""
       }
     },
-    "contact_LxjtGK": {
-      "type": "contact",
-      "disabled": true,
-      "name": "Contact form",
+    "rich_text_Yr7xCC": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_W3QQeM": {
+          "type": "heading",
+          "settings": {
+            "text": "Voto 4.7/5 su 7895 recensioni",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_W3QQeM"
+      ],
+      "name": "Rich text",
       "settings": {
         "full_width": true,
-        "subheading": "Il nostro servizio clienti è disponibile 7 giorni su 7. Tempo medio di risposta: 24 ore",
-        "title": "Avete una domanda?",
-        "content": "<p>Scriveteci utilizzando il modulo sottostante e vi risponderemo al più presto.</p>",
+        "content_width": "small",
         "text_position": "center",
-        "contact_form_size": "large",
         "background": "",
         "background_gradient": "",
-        "text_color": "#000000",
-        "heading_color": "",
-        "heading_gradient": "",
-        "contact_background": "",
-        "contact_text_color": "#000000",
-        "button_background": "#f0c417",
-        "button_text_color": "#000000"
+        "text_color": ""
       }
     }
   },
@@ -647,6 +651,6 @@
     "rich_text_kCGFgp",
     "1753943352100e7b6b",
     "faq_8DRWf3",
-    "contact_LxjtGK"
+    "rich_text_Yr7xCC"
   ]
 }
