@@ -9917,3 +9917,6 @@ split-lines {
 .product__info-container .price--highlight {
   color: #17a760 !important;  /* Vert foncé élégant */
 }
+.price__regular .price-item--regular {
+  color: #17a760 !important; /* Vert pour le prix actuel */
+}
