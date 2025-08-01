@@ -9912,3 +9912,8 @@ split-lines {
   text-transform: uppercase;           /* Maiuscolo */
   display: inline-block;
 }
+/* === Couleur verte pour le prix actuel === */
+.product__info-container .product__price,
+.product__info-container .price--highlight {
+  color: #17a760 !important;  /* Vert foncé élégant */
+}
