@@ -9901,29 +9901,14 @@ split-lines {
 :root {
   --on-sale-text: 230, 0, 35 !important; /* RGB du rouge Velina */
 }
-/* === Style personnalisé pour le badge promo === */
-.product-info__badge-list .discount-badge {
-  background-color: #000 !important;  /* fond noir */
-  color: #fff !important;             /* texte blanc */
-  font-weight: 700;
-  padding: 6px 12px;
-  border-radius: 30px;
-  font-size: 14px;
-  text-transform: uppercase;
+/* === Badge promozionale personalizzato === */
+.product__info-container .product__info__badge-list .badge--on-sale {
+  background-color: #000 !important;   /* Sfondo nero */
+  color: #fff !important;              /* Testo bianco */
+  font-weight: 700;                    /* Grassetto */
+  font-size: 14px;                     /* Leggibile */
+  padding: 6px 12px;                   /* Spaziatura interna */
+  border-radius: 30px;                 /* Angoli arrotondati */
+  text-transform: uppercase;           /* Maiuscolo */
   display: inline-block;
-}
-.product-info__badge--discount,
-.discount-badge,
-[class*="discount-badge"] {
-  background-color: #000 !important; /* fond noir */
-  color: #fff !important;            /* texte blanc */
-  font-weight: 700 !important;
-  border-radius: 30px !important;
-  padding: 6px 12px !important;
-  font-size: 14px !important;
-  text-transform: uppercase !important;
-}
-:root {
-  --on-sale-background: #000 !important;  /* Fond noir */
-  --on-sale-text: #fff !important;        /* Texte blanc */
 }
