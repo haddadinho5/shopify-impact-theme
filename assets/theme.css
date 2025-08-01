@@ -9901,12 +9901,15 @@ split-lines {
 :root {
   --on-sale-text: 230, 0, 35 !important; /* RGB du rouge Velina */
 }
-/* === Badge de réduction personnalisé === */
-.product__info-container .discount-badge {
-  background-color: #000 !important; /* fond noir */
-  color: #fff !important;            /* texte blanc */
-  font-weight: 700;                  /* gras */
-  border-radius: 30px;               /* arrondi élégant */
-  padding: 6px 12px;                 /* espacement interne */
-  font-size: 14px;                   /* taille lisible */
+/* === Style personnalisé pour le badge promo === */
+.product-info__badge-list .discount-badge {
+  background-color: #000 !important;  /* fond noir */
+  color: #fff !important;             /* texte blanc */
+  font-weight: 700;
+  padding: 6px 12px;
+  border-radius: 30px;
+  font-size: 14px;
+  text-transform: uppercase;
+  display: inline-block;
 }
+
