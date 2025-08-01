@@ -385,7 +385,7 @@
     "issued": {
       "remaining_amount": "Importo rimanente",
       "out_of_html": "da un totale di {{ initial_value }}",
-      "redeem_instructions": "Usa questo codice al checkout per riscattare il tuo buono regalo :",
+      "redeem_instructions": "Usa questo codice al checkout per riscattare il tuo buono regalo:",
       "code": "Codice buono regalo",
       "expires_on": "Il tuo buono regalo scade il: {{ expires_on }}",
       "expired": "Il tuo buono regalo è scaduto o è stato disattivato",
