@@ -87,9 +87,9 @@
       "added_to_cart": "Prodotto aggiunto !",
       "sold_out_badge": "Esaurito",
       "on_sale_badge": "In sconto",
-      "discount_badge_html": "OFFERTA D'ESTATE! -50% DI SCONTO",
-      "sku": "SKU:",
-      "variant": "Variante",
+      "discount_badge_html": "Offerta d’estate – Sconto del 50%",
+      "sku": "Codice prodotto:",
+      "variant": "Opzione",
       "view_in_space": "Visualizza nel tuo spazio",
       "taxes_included": "Tasse incluse.",
       "taxes_excluded": "Tasse escluse.",
@@ -371,7 +371,7 @@
     "results_count": {
       "zero": "nessun risultato per \"{{ terms }}\"",
       "one": "1 risultato per \"{{ terms }}\"",
-      "other": "{{ count }} isultati per \"{{ terms }}\""
+      "other": "{{ count }} risultati per \"{{ terms }}\""
     }
   },
   "gift_card": {
