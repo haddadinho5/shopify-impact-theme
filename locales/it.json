@@ -90,7 +90,7 @@
       "discount_badge_html": "Offerta d’estate – Sconto del 50%",
       "sku": "Codice prodotto:",
       "variant": "Opzione",
-      "view_in_space": "Visualizza nel tuo spazio",
+      "view_in_space": "Guarda nel tuo ambiente",
       "taxes_included": "Tasse incluse.",
       "taxes_excluded": "Tasse escluse.",
       "shipping_policy_html": "<a href=\"{{ link }}\" class=\"link\">Spedizione calcolata</a> al checkout",
