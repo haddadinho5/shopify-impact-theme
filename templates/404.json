@@ -30,7 +30,7 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/image-avec-femme-italienne.png",
-        "mobile_image": "shopify://shop_images/image-mobile-avec-femme-italienne.png",
+        "mobile_image": "shopify://shop_images/image-avec-femme-italienne.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
