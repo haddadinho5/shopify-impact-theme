@@ -9912,3 +9912,14 @@ split-lines {
   text-transform: uppercase;
   display: inline-block;
 }
+.product-info__badge--discount,
+.discount-badge,
+[class*="discount-badge"] {
+  background-color: #000 !important; /* fond noir */
+  color: #fff !important;            /* texte blanc */
+  font-weight: 700 !important;
+  border-radius: 30px !important;
+  padding: 6px 12px !important;
+  font-size: 14px !important;
+  text-transform: uppercase !important;
+}
