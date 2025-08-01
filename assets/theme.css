@@ -9898,3 +9898,6 @@ split-lines {
   text-decoration: line-through;
   opacity: 0.7;
 }
+:root {
+  --on-sale-text: 230, 0, 35 !important; /* RGB du rouge Velina */
+}
