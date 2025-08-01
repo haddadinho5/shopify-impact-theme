@@ -9923,3 +9923,7 @@ split-lines {
   font-size: 14px !important;
   text-transform: uppercase !important;
 }
+:root {
+  --on-sale-background: #000 !important;  /* Fond noir */
+  --on-sale-text: #fff !important;        /* Texte blanc */
+}
