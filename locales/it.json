@@ -87,7 +87,7 @@
       "added_to_cart": "Prodotto aggiunto !",
       "sold_out_badge": "Esaurito",
       "on_sale_badge": "In sconto",
-      "discount_badge_html": "OFFERTA D'ESTATE! -50% DI SCONTO ({{ savings }})",
+      "discount_badge_html": "OFFERTA D'ESTATE! -50% DI SCONTO",
       "sku": "SKU:",
       "variant": "Variante",
       "view_in_space": "Visualizza nel tuo spazio",
