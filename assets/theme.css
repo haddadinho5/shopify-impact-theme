@@ -9892,3 +9892,17 @@ split-lines {
   text-decoration: line-through;
   opacity: 0.7;
 }
+/* === Couleurs personnalisées pour les prix === */
+
+/* Prix actuel (prix remisé) */
+.price, .product__price, .price--highlight {
+  color: #e60023 !important; /* Rouge Velina */
+  font-weight: 700;
+}
+
+/* Prix barré (ancien prix) */
+.price--compare, .product__compare-at-price, .price__sale {
+  color: #999 !important;
+  text-decoration: line-through;
+  opacity: 0.7;
+}
